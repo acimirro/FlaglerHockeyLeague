@@ -1,0 +1,59 @@
+header	{
+text-align: center;
+}
+
+body	{
+font-family: Verdana;
+font-size: 11pt;
+}
+			
+h1, h2, h3	{
+color: RED;
+}
+
+h1	{
+font-size: 400%
+}
+
+h2, h3	{
+text-align:center;
+}
+
+a	{
+color: BLUE;
+}
+
+p	{
+color: BLUE; 
+font-weight: bold; 
+text-align: center;
+}
+
+a:hover	{
+background: #19212d;
+color: white;
+}
+					
+table	{
+width: 65%; 
+margin-left: auto; 
+margin-right: auto; 
+border-color: RED; 
+border-style: ridge; 
+border-width: 10px; 
+text-align: center;
+}
+
+.menu	{
+text-align: center; 
+width: 60%;
+}
+	
+th	{
+color: right; 
+background-color: BLUE;
+}
+
+tr.stripe	{
+background-color: GREY;
+}
